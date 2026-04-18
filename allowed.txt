@@ -1,3 +1,4 @@
+=============================== Lifetime =====================================
 fc4b85331bcc1b7aafd8cc6b97eac8eb85e7ade02e8f24408d15e471b28e95fb Dev
 afc2fadba68960d88ab61d6949fae2cc90a3d2bd84a959355d6dce097523bbe4 Dev
 cd3b674fa740b4332207849433dda30708bb5a493c7107ea5eb6c191ff404b12 User
@@ -5,9 +6,10 @@ a36e2b9c0ba3c50e26d13e06695301de611890b373d4abc9e0021dfb417a4564 Tester
 6dfd25c01974ee7db4259b7494ec36ed56f9b4e08e1263f5471b87aa49b888ba Admin
 bce60a0c2ff5d6297404d96e9636d460d40583e42ec85d3803fd4413a45259b0 Dev
 9fa56061daec2d5684decfc11e29e5adf3fd96a8e38c62a820ce47dbfc64ab7f User
-259bac813df045a4a5ceb6fde893d7bb0b335a2baddbd4e681fb5752bdf29711 User
-4d4b1c93130fc0a55c4705a294dd2be7bd3d75486acb975e3d6020e3d38d5850 User
-b0aa71c56fc082aca1584d32dbb22a3d58d64fb4178068b82b79121951e9b86f User
-a399274b5cb900972a86d12ecb508f54e2aa953a67ee677cf4561fd2ace87aea Luren
 2edfb3a0b5cef234d4eb7eac48578c6224a5262edef40608cf98c04b3a5a66b9 User
 abfab9e1040bb46917362f25d69660f046fbbe975c39c14bee2140334e8f069f Media
+=============================== Month =====================================
+259bac813df045a4a5ceb6fde893d7bb0b335a2baddbd4e681fb5752bdf29711 User 20.04.26
+4d4b1c93130fc0a55c4705a294dd2be7bd3d75486acb975e3d6020e3d38d5850 User 20.04.26
+b0aa71c56fc082aca1584d32dbb22a3d58d64fb4178068b82b79121951e9b86f User 20.04.26
+=============================== Week =====================================
